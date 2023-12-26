@@ -1,6 +1,6 @@
 # SimpleDataAug
 
-This is a set of simple functions for EEG data augmentation
+This is a set of simple functions for EEG data augmentation.
 
 Author: Seonghun Park (Ph.D.) 
 
